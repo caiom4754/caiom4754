@@ -4,8 +4,7 @@
 - 🔭 Desenvolvimento Full Stack
 - 🌱 Estudos com foco em JS, PHP e Dart
 - 📫 E-mail para contato: caiom4754@gmail.com
-- 🧑‍🎓 Tecnólogo em Sistemas para Internet - Fatec São Roque
-- 😄 Pronouns: ele/dele
+- 🧑‍🎓 Tecnólogo em Sistemas para Internet - Fatec São 
 
 - ## 📊 GitHub Stats
 
