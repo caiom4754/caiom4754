@@ -24,4 +24,4 @@
   <img aling="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-![Snake Animation](https://github.com/caiom4754/caiom4754/blob/main/output/github-contribution-grid-snake.svg)
+<!--![Snake Animation](https://github.com/caiom4754/caiom4754/blob/main/output/github-contribution-grid-snake.svg)
